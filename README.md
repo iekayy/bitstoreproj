@@ -37,10 +37,9 @@ npm (or yarn / pnpm)
 
 Run the following commands to set up the project locally:
 
-git clone <>
-cd <>
+git clone https://github.com/iekayy/bitstoreproj.git
+cd bitstoreproj
 npm install
-
 
 ### Start the development server:
 npm run dev
